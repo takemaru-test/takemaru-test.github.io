@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>My Private Podcast</title>
+    <link>https://animated-bavarois-206fe5.netlify.app/</link>
+    <description>Private audio summaries</description>
+    <item>
+      <title>ウクライナの電子戦「壁」</title>
+      <enclosure url="a.m4a" length="0" type="audio/wav"/>
+    </item>
+  </channel>
+</rss>
