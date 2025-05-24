@@ -1,23 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>My Private Podcast</title>
-    <link>https://takemaru-private.github.io/podcast/</link>
+    <title>Test feed</title>
+    <link>https://takemaru-test.github.io/pc/</link>
     <language>ja</language>
-    <description>Private audio summaries</description>
-    <itunes:category text="News"/>
-    <itunes:image href="https://takemaru-private.github.io/podcast/artwork.jpg"/>
-    <itunes:explicit>no</itunes:explicit>
-
+    <description>This is a test feed.</description>
+    <itunes:category text="Tech"/>
+    <itunes:image href="https://takemaru-test.github.io/pc/artwork.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>ウクライナの電子戦「壁」</title>
-      <guid>https://takemaru-private.github.io/podcast/a.m4a</guid>
-      <link>https://takemaru-private.github.io/podcast/a.m4a</link>
-      <pubDate>Sat, 25 May 2025 12:00:00 +0900</pubDate>
-      <enclosure url="https://takemaru-private.github.io/podcast/a.m4a"
-                 length="4473857"
-                 type="audio/x-m4a"/>
+      <guid>https://takemaru-test.github.io/pc/20250524223132703246.m4a</guid>
+      <link>https://takemaru-test.github.io/pc/20250524223132703246.m4a</link>
+      <pubDate>Sat, 24 May 2025 22:31:32 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/pc/20250524223132703246.m4a" length="6593905" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>プラスチックパスワード</title>
+      <guid>https://takemaru-test.github.io/pc/20250524223136438958.m4a</guid>
+      <link>https://takemaru-test.github.io/pc/20250524223136438958.m4a</link>
+      <pubDate>Sat, 24 May 2025 22:31:36 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/pc/20250524223136438958.m4a" length="6718524" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>音声言語処理の科学技術</title>
+      <guid>https://takemaru-test.github.io/pc/20250524223140400803.m4a</guid>
+      <link>https://takemaru-test.github.io/pc/20250524223140400803.m4a</link>
+      <pubDate>Sat, 24 May 2025 22:31:40 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/pc/20250524223140400803.m4a" length="5765356" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
