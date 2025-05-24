@@ -6,7 +6,7 @@
     <description>Private audio summaries</description>
     <item>
       <title>ウクライナの電子戦「壁」</title>
-      <enclosure url="a.m4a" length="0" type="audio/wav"/>
+      <enclosure url="a.m4a" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
