@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>My Private Podcast</title>
     <link>https://takemaru-private.github.io/podcast/</link>
+    <language>ja</language>
     <description>Private audio summaries</description>
+    <itunes:category text="News"/>
+    <itunes:image href="https://takemaru-private.github.io/podcast/artwork.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+
     <item>
       <title>ウクライナの電子戦「壁」</title>
-      <enclosure url="a.m4a" length="0" type="audio/x-m4a"/>
+      <guid>https://takemaru-private.github.io/podcast/a.m4a</guid>
+      <link>https://takemaru-private.github.io/podcast/a.m4a</link>
+      <pubDate>Sat, 25 May 2025 12:00:00 +0900</pubDate>
+      <enclosure url="https://takemaru-private.github.io/podcast/a.m4a"
+                 length="4473857"
+                 type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
