@@ -9,25 +9,11 @@
     <itunes:image href="https://takemaru-test.github.io/pc/artwork.jpg"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>ウクライナの電子戦「壁」</title>
-      <guid>https://takemaru-test.github.io/pc/20250524223132703246.m4a</guid>
-      <link>https://takemaru-test.github.io/pc/20250524223132703246.m4a</link>
-      <pubDate>Sat, 24 May 2025 22:31:32 +0900</pubDate>
-      <enclosure url="https://takemaru-test.github.io/pc/20250524223132703246.m4a" length="6593905" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>プラスチックパスワード</title>
-      <guid>https://takemaru-test.github.io/pc/20250524223136438958.m4a</guid>
-      <link>https://takemaru-test.github.io/pc/20250524223136438958.m4a</link>
-      <pubDate>Sat, 24 May 2025 22:31:36 +0900</pubDate>
-      <enclosure url="https://takemaru-test.github.io/pc/20250524223136438958.m4a" length="6718524" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>音声言語処理の科学技術</title>
-      <guid>https://takemaru-test.github.io/pc/20250524223140400803.m4a</guid>
-      <link>https://takemaru-test.github.io/pc/20250524223140400803.m4a</link>
-      <pubDate>Sat, 24 May 2025 22:31:40 +0900</pubDate>
-      <enclosure url="https://takemaru-test.github.io/pc/20250524223140400803.m4a" length="5765356" type="audio/x-m4a"/>
+      <title>ContainerlabとRoman Dodinの物語</title>
+      <guid>https://takemaru-test.github.io/pc/20250526155217340272.m4a</guid>
+      <link>https://takemaru-test.github.io/pc/20250526155217340272.m4a</link>
+      <pubDate>Mon, 26 May 2025 15:52:17 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/pc/20250526155217340272.m4a" length="5635848" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
