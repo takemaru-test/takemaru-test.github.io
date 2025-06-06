@@ -9,6 +9,13 @@
     <itunes:image href="https://takemaru-test.github.io/artwork.jpg"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Communications Infrastructure Restoration During Disasters</title>
+      <guid>https://takemaru-test.github.io/20250606214717602925.m4a</guid>
+      <link>https://takemaru-test.github.io/20250606214717602925.m4a</link>
+      <pubDate>Fri, 06 Jun 2025 21:47:17 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/20250606214717602925.m4a" length="5869107" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>NVIDIA Blackwell MLPerf トレーニングベンチマーク</title>
       <guid>https://takemaru-test.github.io/20250606155311628325.m4a</guid>
       <link>https://takemaru-test.github.io/20250606155311628325.m4a</link>
