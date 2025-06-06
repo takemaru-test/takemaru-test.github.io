@@ -9,39 +9,39 @@
     <itunes:image href="https://takemaru-test.github.io/pc/artwork.jpg"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>GPUレンタル価格指標とAI</title>
-      <guid>https://takemaru-test.github.io/pc/20250530173838553609.m4a</guid>
-      <link>https://takemaru-test.github.io/pc/20250530173838553609.m4a</link>
-      <pubDate>Fri, 30 May 2025 17:38:38 +0900</pubDate>
-      <enclosure url="https://takemaru-test.github.io/pc/20250530173838553609.m4a" length="7230461" type="audio/x-m4a"/>
+      <title>NVIDIA Blackwell MLPerf トレーニングベンチマーク</title>
+      <guid>https://takemaru-test.github.io/pc/20250606155311628325.m4a</guid>
+      <link>https://takemaru-test.github.io/pc/20250606155311628325.m4a</link>
+      <pubDate>Fri, 06 Jun 2025 15:53:11 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/pc/20250606155311628325.m4a" length="7065186" type="audio/x-m4a"/>
     </item>
     <item>
-      <title>TSMCの異色AIデータセンター光技術</title>
-      <guid>https://takemaru-test.github.io/pc/20250530173817659486.m4a</guid>
-      <link>https://takemaru-test.github.io/pc/20250530173817659486.m4a</link>
-      <pubDate>Fri, 30 May 2025 17:38:17 +0900</pubDate>
-      <enclosure url="https://takemaru-test.github.io/pc/20250530173817659486.m4a" length="7153803" type="audio/x-m4a"/>
+      <title>SIGDOCのXからの撤退理由</title>
+      <guid>https://takemaru-test.github.io/pc/20250606155234903159.m4a</guid>
+      <link>https://takemaru-test.github.io/pc/20250606155234903159.m4a</link>
+      <pubDate>Fri, 06 Jun 2025 15:52:34 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/pc/20250606155234903159.m4a" length="6440698" type="audio/x-m4a"/>
     </item>
     <item>
-      <title>エージェントAIインターネットの台頭</title>
-      <guid>https://takemaru-test.github.io/pc/20250530173920773965.m4a</guid>
-      <link>https://takemaru-test.github.io/pc/20250530173920773965.m4a</link>
-      <pubDate>Fri, 30 May 2025 17:39:20 +0900</pubDate>
-      <enclosure url="https://takemaru-test.github.io/pc/20250530173920773965.m4a" length="6862800" type="audio/x-m4a"/>
+      <title>アナログAIチップによる省電力化</title>
+      <guid>https://takemaru-test.github.io/pc/20250606155252578379.m4a</guid>
+      <link>https://takemaru-test.github.io/pc/20250606155252578379.m4a</link>
+      <pubDate>Fri, 06 Jun 2025 15:52:52 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/pc/20250606155252578379.m4a" length="5874053" type="audio/x-m4a"/>
     </item>
     <item>
-      <title>組み込みAIによるドローンセキュリティ強化</title>
-      <guid>https://takemaru-test.github.io/pc/20250530173906728324.m4a</guid>
-      <link>https://takemaru-test.github.io/pc/20250530173906728324.m4a</link>
-      <pubDate>Fri, 30 May 2025 17:39:06 +0900</pubDate>
-      <enclosure url="https://takemaru-test.github.io/pc/20250530173906728324.m4a" length="5317367" type="audio/x-m4a"/>
+      <title>ジェスチャーAI学習システム</title>
+      <guid>https://takemaru-test.github.io/pc/20250606155339923651.m4a</guid>
+      <link>https://takemaru-test.github.io/pc/20250606155339923651.m4a</link>
+      <pubDate>Fri, 06 Jun 2025 15:53:39 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/pc/20250606155339923651.m4a" length="4640924" type="audio/x-m4a"/>
     </item>
     <item>
-      <title>理論と実践の不一致</title>
-      <guid>https://takemaru-test.github.io/pc/20250530173852898770.m4a</guid>
-      <link>https://takemaru-test.github.io/pc/20250530173852898770.m4a</link>
-      <pubDate>Fri, 30 May 2025 17:38:52 +0900</pubDate>
-      <enclosure url="https://takemaru-test.github.io/pc/20250530173852898770.m4a" length="5580940" type="audio/x-m4a"/>
+      <title>パルサーチップとAIセンサー</title>
+      <guid>https://takemaru-test.github.io/pc/20250606155327629875.m4a</guid>
+      <link>https://takemaru-test.github.io/pc/20250606155327629875.m4a</link>
+      <pubDate>Fri, 06 Jun 2025 15:53:27 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/pc/20250606155327629875.m4a" length="6627479" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
