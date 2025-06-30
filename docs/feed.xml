@@ -9,60 +9,109 @@
     <itunes:image href="https://takemaru-test.github.io/docs/artwork.jpg"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>AIネットワーキング：Cornelis CN500</title>
-      <guid>https://takemaru-test.github.io/docs/20250623133204059846.m4a</guid>
-      <link>https://takemaru-test.github.io/docs/20250623133204059846.m4a</link>
-      <pubDate>Mon, 23 Jun 2025 13:32:04 +0900</pubDate>
-      <enclosure url="https://takemaru-test.github.io/docs/20250623133204059846.m4a" length="6109253" type="audio/x-m4a"/>
+      <title>Aegis_ Diagnosing Failures in Large-Scale AI Model Training</title>
+      <guid>https://takemaru-test.github.io/docs/20250630223709853455.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250630223709853455.m4a</link>
+      <pubDate>Mon, 30 Jun 2025 22:37:09 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250630223709853455.m4a" length="6623266" type="audio/x-m4a"/>
     </item>
     <item>
-      <title>AIの言語モデルはメタ言語を習得する</title>
-      <guid>https://takemaru-test.github.io/docs/20250623133120030864.m4a</guid>
-      <link>https://takemaru-test.github.io/docs/20250623133120030864.m4a</link>
-      <pubDate>Mon, 23 Jun 2025 13:31:20 +0900</pubDate>
-      <enclosure url="https://takemaru-test.github.io/docs/20250623133120030864.m4a" length="6312004" type="audio/x-m4a"/>
+      <title>AIエージェント</title>
+      <guid>https://takemaru-test.github.io/docs/20250630223403669400.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250630223403669400.m4a</link>
+      <pubDate>Mon, 30 Jun 2025 22:34:03 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250630223403669400.m4a" length="5915759" type="audio/x-m4a"/>
     </item>
     <item>
-      <title>サプライチェーンレジリエンスの重要性</title>
-      <guid>https://takemaru-test.github.io/docs/20250623133043256999.m4a</guid>
-      <link>https://takemaru-test.github.io/docs/20250623133043256999.m4a</link>
-      <pubDate>Mon, 23 Jun 2025 13:30:43 +0900</pubDate>
-      <enclosure url="https://takemaru-test.github.io/docs/20250623133043256999.m4a" length="6745864" type="audio/x-m4a"/>
+      <title>h2ROV_ Fast and Memory-Efficient RPKI ROV</title>
+      <guid>https://takemaru-test.github.io/docs/20250630223743119115.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250630223743119115.m4a</link>
+      <pubDate>Mon, 30 Jun 2025 22:37:43 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250630223743119115.m4a" length="6592663" type="audio/x-m4a"/>
     </item>
     <item>
-      <title>データセンターと電力網の協調性試験</title>
-      <guid>https://takemaru-test.github.io/docs/20250623133057003526.m4a</guid>
-      <link>https://takemaru-test.github.io/docs/20250623133057003526.m4a</link>
-      <pubDate>Mon, 23 Jun 2025 13:30:57 +0900</pubDate>
-      <enclosure url="https://takemaru-test.github.io/docs/20250623133057003526.m4a" length="5903965" type="audio/x-m4a"/>
+      <title>Holmes_ Localizing LLM Training Irregularities on GPU Clusters</title>
+      <guid>https://takemaru-test.github.io/docs/20250630223639727035.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250630223639727035.m4a</link>
+      <pubDate>Mon, 30 Jun 2025 22:36:39 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250630223639727035.m4a" length="7340701" type="audio/x-m4a"/>
     </item>
     <item>
-      <title>最優秀AIコーディングツール比較</title>
-      <guid>https://takemaru-test.github.io/docs/20250623133153736909.m4a</guid>
-      <link>https://takemaru-test.github.io/docs/20250623133153736909.m4a</link>
-      <pubDate>Mon, 23 Jun 2025 13:31:53 +0900</pubDate>
-      <enclosure url="https://takemaru-test.github.io/docs/20250623133153736909.m4a" length="6786197" type="audio/x-m4a"/>
+      <title>Minder_ Fault Detection for Distributed Training Tasks</title>
+      <guid>https://takemaru-test.github.io/docs/20250630223630114682.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250630223630114682.m4a</link>
+      <pubDate>Mon, 30 Jun 2025 22:36:30 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250630223630114682.m4a" length="8630513" type="audio/x-m4a"/>
     </item>
     <item>
-      <title>資金難が米国の半導体研究を脅かす</title>
-      <guid>https://takemaru-test.github.io/docs/20250623133108991846.m4a</guid>
-      <link>https://takemaru-test.github.io/docs/20250623133108991846.m4a</link>
-      <pubDate>Mon, 23 Jun 2025 13:31:08 +0900</pubDate>
-      <enclosure url="https://takemaru-test.github.io/docs/20250623133108991846.m4a" length="6712052" type="audio/x-m4a"/>
+      <title>Network Decision Diagram for Verification</title>
+      <guid>https://takemaru-test.github.io/docs/20250630223416963485.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250630223416963485.m4a</link>
+      <pubDate>Mon, 30 Jun 2025 22:34:16 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250630223416963485.m4a" length="7409144" type="audio/x-m4a"/>
     </item>
     <item>
-      <title>脳信号によるリアルタイム音声合成</title>
-      <guid>https://takemaru-test.github.io/docs/20250623133131325790.m4a</guid>
-      <link>https://takemaru-test.github.io/docs/20250623133131325790.m4a</link>
-      <pubDate>Mon, 23 Jun 2025 13:31:31 +0900</pubDate>
-      <enclosure url="https://takemaru-test.github.io/docs/20250623133131325790.m4a" length="7010448" type="audio/x-m4a"/>
+      <title>Network Topologies for Distributed Machine Learning</title>
+      <guid>https://takemaru-test.github.io/docs/20250630223659625140.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250630223659625140.m4a</link>
+      <pubDate>Mon, 30 Jun 2025 22:36:59 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250630223659625140.m4a" length="7470233" type="audio/x-m4a"/>
     </item>
     <item>
-      <title>風力発電を活用した省エネ・スーパーコンピューター・ネットワーク</title>
-      <guid>https://takemaru-test.github.io/docs/20250623133142197277.m4a</guid>
-      <link>https://takemaru-test.github.io/docs/20250623133142197277.m4a</link>
-      <pubDate>Mon, 23 Jun 2025 13:31:42 +0900</pubDate>
-      <enclosure url="https://takemaru-test.github.io/docs/20250623133142197277.m4a" length="6438427" type="audio/x-m4a"/>
+      <title>OPTIREDUCE_ Tail-Optimal AllReduce for Deep Learning in the Cloud</title>
+      <guid>https://takemaru-test.github.io/docs/20250630223650081890.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250630223650081890.m4a</link>
+      <pubDate>Mon, 30 Jun 2025 22:36:50 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250630223650081890.m4a" length="7747738" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Smart Casual Verification for Distributed Systems</title>
+      <guid>https://takemaru-test.github.io/docs/20250630223448758935.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250630223448758935.m4a</link>
+      <pubDate>Mon, 30 Jun 2025 22:34:48 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250630223448758935.m4a" length="6022414" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Solving Datacenter Hotspots_ Smart Scheduling and Storage Placement</title>
+      <guid>https://takemaru-test.github.io/docs/20250630223611765199.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250630223611765199.m4a</link>
+      <pubDate>Mon, 30 Jun 2025 22:36:11 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250630223611765199.m4a" length="5695207" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Suppressing BGP Zombies with Route Status Transparency</title>
+      <guid>https://takemaru-test.github.io/docs/20250630223733038319.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250630223733038319.m4a</link>
+      <pubDate>Mon, 30 Jun 2025 22:37:33 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250630223733038319.m4a" length="7857449" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>SWARM_ Network Failure Mitigation for Data Centers</title>
+      <guid>https://takemaru-test.github.io/docs/20250630223623947411.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250630223623947411.m4a</link>
+      <pubDate>Mon, 30 Jun 2025 22:36:23 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250630223623947411.m4a" length="6215706" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Velo_ Verifying Maximum Link Loads in Networks</title>
+      <guid>https://takemaru-test.github.io/docs/20250630223721985331.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250630223721985331.m4a</link>
+      <pubDate>Mon, 30 Jun 2025 22:37:21 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250630223721985331.m4a" length="7730012" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>いんちき自作システムの試行錯誤を通じたコンピュータ技術とサイバーセキュリティにおける人材育成法及び将来展望</title>
+      <guid>https://takemaru-test.github.io/docs/20250630223349166576.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250630223349166576.m4a</link>
+      <pubDate>Mon, 30 Jun 2025 22:33:49 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250630223349166576.m4a" length="6940329" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>大規模言語モデルにおけるハルシネーションの仕組みと対策</title>
+      <guid>https://takemaru-test.github.io/docs/20250630223325767593.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250630223325767593.m4a</link>
+      <pubDate>Mon, 30 Jun 2025 22:33:25 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250630223325767593.m4a" length="7169663" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
