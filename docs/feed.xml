@@ -9,46 +9,39 @@
     <itunes:image href="https://takemaru-test.github.io/docs/artwork.jpg"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>AIは人類の「価値ある後継者」か？</title>
-      <guid>https://takemaru-test.github.io/docs/20250705175651077441.m4a</guid>
-      <link>https://takemaru-test.github.io/docs/20250705175651077441.m4a</link>
-      <pubDate>Sat, 05 Jul 2025 17:56:51 +0900</pubDate>
-      <enclosure url="https://takemaru-test.github.io/docs/20250705175651077441.m4a" length="4440050" type="audio/x-m4a"/>
+      <title>AIと交差点監視：交通安全の未来</title>
+      <guid>https://takemaru-test.github.io/docs/20250712204252262664.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250712204252262664.m4a</link>
+      <pubDate>Sat, 12 Jul 2025 20:42:52 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250712204252262664.m4a" length="6522482" type="audio/x-m4a"/>
     </item>
     <item>
-      <title>LLM性能とAIの未来</title>
-      <guid>https://takemaru-test.github.io/docs/20250705180210284511.m4a</guid>
-      <link>https://takemaru-test.github.io/docs/20250705180210284511.m4a</link>
-      <pubDate>Sat, 05 Jul 2025 18:02:10 +0900</pubDate>
-      <enclosure url="https://takemaru-test.github.io/docs/20250705180210284511.m4a" length="6101726" type="audio/x-m4a"/>
+      <title>MIT製IoTチップ：5Gと周波数ホッピング</title>
+      <guid>https://takemaru-test.github.io/docs/20250712204316624334.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250712204316624334.m4a</link>
+      <pubDate>Sat, 12 Jul 2025 20:43:16 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250712204316624334.m4a" length="5897135" type="audio/x-m4a"/>
     </item>
     <item>
-      <title>エストニアのAI教育革命</title>
-      <guid>https://takemaru-test.github.io/docs/20250705175707286919.m4a</guid>
-      <link>https://takemaru-test.github.io/docs/20250705175707286919.m4a</link>
-      <pubDate>Sat, 05 Jul 2025 17:57:07 +0900</pubDate>
-      <enclosure url="https://takemaru-test.github.io/docs/20250705175707286919.m4a" length="7206057" type="audio/x-m4a"/>
+      <title>月面時間帯の必要性</title>
+      <guid>https://takemaru-test.github.io/docs/20250712204344039835.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250712204344039835.m4a</link>
+      <pubDate>Sat, 12 Jul 2025 20:43:44 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250712204344039835.m4a" length="5365344" type="audio/x-m4a"/>
     </item>
     <item>
-      <title>より良い本棚のアルゴリズム</title>
-      <guid>https://takemaru-test.github.io/docs/20250705175726630848.m4a</guid>
-      <link>https://takemaru-test.github.io/docs/20250705175726630848.m4a</link>
-      <pubDate>Sat, 05 Jul 2025 17:57:26 +0900</pubDate>
-      <enclosure url="https://takemaru-test.github.io/docs/20250705175726630848.m4a" length="7578687" type="audio/x-m4a"/>
+      <title>地形的ニューラルネットワーク：人間の視覚とAIの融合</title>
+      <guid>https://takemaru-test.github.io/docs/20250712204306575589.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250712204306575589.m4a</link>
+      <pubDate>Sat, 12 Jul 2025 20:43:06 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250712204306575589.m4a" length="5822381" type="audio/x-m4a"/>
     </item>
     <item>
-      <title>空中データ処理による次世代無線通信</title>
-      <guid>https://takemaru-test.github.io/docs/20250705175738135787.m4a</guid>
-      <link>https://takemaru-test.github.io/docs/20250705175738135787.m4a</link>
-      <pubDate>Sat, 05 Jul 2025 17:57:38 +0900</pubDate>
-      <enclosure url="https://takemaru-test.github.io/docs/20250705175738135787.m4a" length="6049527" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>進化型AIコーディングエージェントの躍進</title>
-      <guid>https://takemaru-test.github.io/docs/20250705175720129377.m4a</guid>
-      <link>https://takemaru-test.github.io/docs/20250705175720129377.m4a</link>
-      <pubDate>Sat, 05 Jul 2025 17:57:20 +0900</pubDate>
-      <enclosure url="https://takemaru-test.github.io/docs/20250705175720129377.m4a" length="7354888" type="audio/x-m4a"/>
+      <title>量子インターネット：実現への道</title>
+      <guid>https://takemaru-test.github.io/docs/20250712204332247536.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250712204332247536.m4a</link>
+      <pubDate>Sat, 12 Jul 2025 20:43:32 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250712204332247536.m4a" length="7802058" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
