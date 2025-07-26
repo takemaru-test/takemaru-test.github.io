@@ -9,6 +9,20 @@
     <itunes:image href="https://takemaru-test.github.io/docs/artwork.jpg"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>An Engineer Secures Nigerian Democracy</title>
+      <guid>https://takemaru-test.github.io/docs/20250726222958058911.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250726222958058911.m4a</link>
+      <pubDate>Sat, 26 Jul 2025 22:29:58 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250726222958058911.m4a" length="5488140" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Bridging Formal and Current Protocol Specifications</title>
+      <guid>https://takemaru-test.github.io/docs/20250726223013570375.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250726223013570375.m4a</link>
+      <pubDate>Sat, 26 Jul 2025 22:30:13 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250726223013570375.m4a" length="6656106" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>China's Robotaxi Ascent_ A Challenge to Tesla</title>
       <guid>https://takemaru-test.github.io/docs/20250720171909851157.m4a</guid>
       <link>https://takemaru-test.github.io/docs/20250720171909851157.m4a</link>
@@ -16,11 +30,39 @@
       <enclosure url="https://takemaru-test.github.io/docs/20250720171909851157.m4a" length="9098581" type="audio/x-m4a"/>
     </item>
     <item>
+      <title>Edge AI_ Hardware Constraints and Optimization</title>
+      <guid>https://takemaru-test.github.io/docs/20250726222928719406.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250726222928719406.m4a</link>
+      <pubDate>Sat, 26 Jul 2025 22:29:28 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250726222928719406.m4a" length="6566147" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seizo Onoe_ Architect of Global Mobile Networks</title>
+      <guid>https://takemaru-test.github.io/docs/20250726223037022849.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250726223037022849.m4a</link>
+      <pubDate>Sat, 26 Jul 2025 22:30:37 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250726223037022849.m4a" length="6016902" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>The Spatial Web_ Interconnecting Our Physical World</title>
+      <guid>https://takemaru-test.github.io/docs/20250726223025191488.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250726223025191488.m4a</link>
+      <pubDate>Sat, 26 Jul 2025 22:30:25 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250726223025191488.m4a" length="7163683" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Thermodynamic Computing Becomes Cool</title>
       <guid>https://takemaru-test.github.io/docs/20250720171559461826.m4a</guid>
       <link>https://takemaru-test.github.io/docs/20250720171559461826.m4a</link>
       <pubDate>Sun, 20 Jul 2025 17:15:59 +0900</pubDate>
       <enclosure url="https://takemaru-test.github.io/docs/20250720171559461826.m4a" length="6598660" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Thunderforge_ AI Agents for Wargames</title>
+      <guid>https://takemaru-test.github.io/docs/20250726222945180459.m4a</guid>
+      <link>https://takemaru-test.github.io/docs/20250726222945180459.m4a</link>
+      <pubDate>Sat, 26 Jul 2025 22:29:45 +0900</pubDate>
+      <enclosure url="https://takemaru-test.github.io/docs/20250726222945180459.m4a" length="5919558" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
